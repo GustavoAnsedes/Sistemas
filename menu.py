@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #Primera versión sin comprobar que los datos introducidos son válidos
 import os
 import subprocess
